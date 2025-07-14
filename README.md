@@ -1,8 +1,6 @@
-# FreeCodeCamp – JavaScript Algorithms and Data Structures 🧠
+# JavaScript Algorithms and Data Structures 🧠
 
-This repository contains all my projects, apps, and exercises completed during the [freeCodeCamp JavaScript Algorithms and Data Structures Certification]
-(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/).
-
+This repository contains projects, apps, and exercises I built while practicing JavaScript Algorithms and Data Structures
 It includes hands-on coding challenges and mini-apps that focus on **core JavaScript fundamentals**, including:
 
 - Data types & variables
@@ -49,5 +47,5 @@ All logic is written from scratch without frameworks, to focus on building raw p
 
 ## 🚧 Structure of the Repo
 
-Each project lives in its own folder:
+Each project lives in its own folder with its own code and README for easy navigation.
 
