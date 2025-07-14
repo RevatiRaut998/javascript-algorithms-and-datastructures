@@ -1,7 +1,8 @@
-# JavaScript Algorithms and Data Structures 🧠
+# JavaScript Algorithms and Data Structures 
 
-This repository contains projects, apps, and exercises I built while practicing JavaScript Algorithms and Data Structures
-It includes hands-on coding challenges and mini-apps that focus on **core JavaScript fundamentals**, including:
+🧠 This repository contains projects, apps, and exercises I built while practicing JavaScript Algorithms and Data Structures
+It includes hands-on coding challenges and mini-apps that focus on **core JavaScript fundamentals**, 
+including:
 
 - Data types & variables
 - Loops & iteration
