@@ -24,9 +24,9 @@ It uses two main functions:
 - Clean formatting using `console.log`
 
 ---
-
 ## 🔍 Example Output (Height: 8)
 
+<pre>
        #       
       ###      
      #####     
@@ -35,6 +35,7 @@ It uses two main functions:
   ###########  
  ############# 
 ###############
+</pre>
 
 ---
 
