@@ -24,14 +24,18 @@ All logic is written from scratch without frameworks, to focus on building raw p
 
 ## ✅ Completed Projects
 
-| Project           | Description                                                                |
-|-------------------|----------------------------------------------------------------------------|
-| 🧱 Pyramid App     | Builds a right-aligned pyramid using nested loops and string concatenation |
-| 📘 Gradebook App   | Calculates class average, assigns grades, and returns a pass/fail message  |
-| 🔐 Caesar Cipher   | [Coming soon] Shift letters in a string to encrypt messages                |
-| 💰 Cash Register   | [Coming soon] Simulates returning change in bills/coins                    |
-| 📞 Phone Validator | [Coming soon] Validates US phone number formats using RegEx               |
-| 🔄 Palindrome App  | [Coming soon] Checks if strings are palindromes ignoring punctuation       |
+## ✅ Completed Projects
+
+| Project                      | Description                                                                |
+|------------------------------|----------------------------------------------------------------------------|
+| 🧱 Pyramid App               | Builds a right-aligned pyramid using nested loops and string concatenation |
+| 📘 Gradebook App             | Calculates class average, assigns grades, and returns a pass/fail message  |
+| 💰 Cash Register             | Simulates returning change in bills/coins                                  |
+| ☎️ Telephone Number Validator | Validates US phone number formats using RegEx                              |
+| 🔄 Palindrome App            | Checks if strings are palindromes ignoring punctuation                     |
+| 🧮 Roman Numeral Converter   | Converts numbers (1–3999) into Roman numerals                              |
+| 📊 RPG Creature Search       | Searches and displays RPG creature stats by name or ID                     |
+
 
 ---
 
